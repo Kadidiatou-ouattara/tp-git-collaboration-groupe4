@@ -1,24 +1,21 @@
-<<<<<<< HEAD
-# tp-git-collaboration-groupe4
-=======
+
 "# Urgence+"#
 "## Description"##
 
-Urgence+ est une plateforme numérique intégrée conçue pour améliorer la réactivité et la coordination des services de santé au sein des communautés. Elle regroupe trois modules principaux : la gestion des urgences médicales, l’alerte d’arrivée imminente d’un bébé et la gestion des dons de sang. Son objectif est de connecter efficacement les citoyens aux centres de santé afin de réduire les délais d’intervention et d’optimiser la prise en charge des situations critiques.
+Urgence+ est une plateforme numÃ©rique intÃ©grÃ©e conÃ§ue pour amÃ©liorer la rÃ©activitÃ© et la coordination des services de santÃ© au sein des communautÃ©s. Elle regroupe trois modules principaux : la gestion des urgences mÃ©dicales, lâ€™alerte dâ€™arrivÃ©e imminente dâ€™un bÃ©bÃ© et la gestion des dons de sang. Son objectif est de connecter efficacement les citoyens aux centres de santÃ© afin de rÃ©duire les dÃ©lais dâ€™intervention et dâ€™optimiser la prise en charge des situations critiques.
 
-Le module d’urgence permet à tout utilisateur d’envoyer instantanément une alerte au centre de santé le plus proche en cas de situation grave. Cette notification rapide permet au personnel médical de se préparer et d’organiser l’intervention nécessaire. Le module grossesse est exclusivement destiné à signaler l’arrivée imminente du bébé. Lorsqu’une femme enceinte entre en travail, elle peut déclencher une alerte pour informer le centre de santé de son arrivée prochaine, permettant ainsi à l’équipe médicale d’anticiper et de préparer l’accouchement dans de meilleures conditions.
+Le module dâ€™urgence permet Ã  tout utilisateur dâ€™envoyer instantanÃ©ment une alerte au centre de santÃ© le plus proche en cas de situation grave. Cette notification rapide permet au personnel mÃ©dical de se prÃ©parer et dâ€™organiser lâ€™intervention nÃ©cessaire. Le module grossesse est exclusivement destinÃ© Ã  signaler lâ€™arrivÃ©e imminente du bÃ©bÃ©. Lorsquâ€™une femme enceinte entre en travail, elle peut dÃ©clencher une alerte pour informer le centre de santÃ© de son arrivÃ©e prochaine, permettant ainsi Ã  lâ€™Ã©quipe mÃ©dicale dâ€™anticiper et de prÃ©parer lâ€™accouchement dans de meilleures conditions.
 
-Le module de don de sang permet aux donneurs volontaires de s’inscrire avec leur groupe sanguin et leurs informations de contact. En cas de besoin urgent signalé par un établissement de santé, les donneurs compatibles sont notifiés immédiatement. Toutefois, la plateforme permet également aux citoyens de proposer un don de sang de manière volontaire, sans attendre une convocation ou une demande urgente. Ils peuvent ainsi signaler leur disponibilité pour donner leur sang, contribuant à maintenir un stock suffisant et à renforcer la solidarité communautaire.
+Le module de don de sang permet aux donneurs volontaires de sâ€™inscrire avec leur groupe sanguin et leurs informations de contact. En cas de besoin urgent signalÃ© par un Ã©tablissement de santÃ©, les donneurs compatibles sont notifiÃ©s immÃ©diatement. Toutefois, la plateforme permet Ã©galement aux citoyens de proposer un don de sang de maniÃ¨re volontaire, sans attendre une convocation ou une demande urgente. Ils peuvent ainsi signaler leur disponibilitÃ© pour donner leur sang, contribuant Ã  maintenir un stock suffisant et Ã  renforcer la solidaritÃ© communautaire.
 
 
 "## Objectifs"##
 
-L’objectif principal de l’application est de développer une plateforme numérique innovante capable de faciliter la communication rapide entre les citoyens et les centres de santé afin d’assurer une prise en charge plus efficace des situations urgentes et critiques.
+Lâ€™objectif principal de lâ€™application est de dÃ©velopper une plateforme numÃ©rique innovante capable de faciliter la communication rapide entre les citoyens et les centres de santÃ© afin dâ€™assurer une prise en charge plus efficace des situations urgentes et critiques.
 
-Le projet vise à réduire les délais d’intervention en cas d’urgence, à faciliter la préparation des accouchements grâce à une alerte d’arrivée imminente du bébé, et à améliorer la disponibilité du sang à travers un système organisé de don volontaire et sur demande.
+Le projet vise Ã  rÃ©duire les dÃ©lais dâ€™intervention en cas dâ€™urgence, Ã  faciliter la prÃ©paration des accouchements grÃ¢ce Ã  une alerte dâ€™arrivÃ©e imminente du bÃ©bÃ©, et Ã  amÃ©liorer la disponibilitÃ© du sang Ã  travers un systÃ¨me organisÃ© de don volontaire et sur demande.
 
-De manière spécifique, le projet a pour objectifs de permettre aux citoyens de signaler rapidement une situation d’urgence, d’offrir aux femmes enceintes un moyen simple d’informer un centre de santé de leur arrivée prochaine pour accouchement, et de créer une base de données de donneurs de sang pouvant être contactés en cas de besoin ou donner volontairement sans convocation.
+De maniÃ¨re spÃ©cifique, le projet a pour objectifs de permettre aux citoyens de signaler rapidement une situation dâ€™urgence, dâ€™offrir aux femmes enceintes un moyen simple dâ€™informer un centre de santÃ© de leur arrivÃ©e prochaine pour accouchement, et de crÃ©er une base de donnÃ©es de donneurs de sang pouvant Ãªtre contactÃ©s en cas de besoin ou donner volontairement sans convocation.
 
-À travers cette solution technologique, l’application cherche à contribuer à la réduction des décès évitables, à améliorer l’organisation des services de santé et à promouvoir la solidarité communautaire dans le domaine médical.
+Ã€ travers cette solution technologique, lâ€™application cherche Ã  contribuer Ã  la rÃ©duction des dÃ©cÃ¨s Ã©vitables, Ã  amÃ©liorer lâ€™organisation des services de santÃ© et Ã  promouvoir la solidaritÃ© communautaire dans le domaine mÃ©dical.
 
->>>>>>> master-temp
