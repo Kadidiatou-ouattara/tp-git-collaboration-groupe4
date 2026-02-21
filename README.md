@@ -18,4 +18,11 @@ Le projet vise à réduire les délais d’intervention en cas d’urgence, à f
 De manière spécifique, le projet a pour objectifs de permettre aux citoyens de signaler rapidement une situation d’urgence, d’offrir aux femmes enceintes un moyen simple d’informer un centre de santé de leur arrivée prochaine pour accouchement, et de créer une base de données de donneurs de sang pouvant être contactés en cas de besoin ou donner volontairement sans convocation.
 
 À travers cette solution technologique, l’application cherche à contribuer à la réduction des décès évitables, à améliorer l’organisation des services de santé et à promouvoir la solidarité communautaire dans le domaine médical.
+# Fiche de présentation
 
+## Profil
+Nom : Traore Moussa 
+Spécialité : Systeme d'information 
+
+## Fonctionnalités à développer
+-Notification automatique aux donneurs compatibles en cas de demande urgente
