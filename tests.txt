@@ -1,0 +1,8 @@
+Liste des tests à effectuer
+
+1. Test module Urgence Assigné à Moussa Traoré
+2. Test module Grossesse Assigné à Gassama
+3. Test module Don de sang Assigné Adama Diarra
+4. Test API notifications Assigné Mohamed Coulibaly1
+5. Test interface utilisateur Assigné à Demba Diallo
+6. Test base de données Assigné à Idrissa Berthé
