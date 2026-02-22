@@ -2,6 +2,7 @@
 
 ## Description
 
+
 Urgence+ est une plateforme numérique intégrée conçue pour améliorer la réactivité et la coordination des services de santé au sein des communautés. Elle regroupe trois modules principaux : la gestion des urgences médicales, l’alerte d’arrivée imminente d’un bébé et la gestion des dons de sang.
 
 Son objectif est de connecter efficacement les citoyens aux centres de santé afin de réduire les délais d’intervention et d’optimiser la prise en charge des situations critiques.
