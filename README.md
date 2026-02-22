@@ -2,7 +2,7 @@
 "# Urgence+"#
 "## Description"##
 
-Urgence+ est une plateforme numérique intégrée conçue pour améliorer la réactivité et la coordination des services de santé au sein des communautés. Elle regroupe trois modules principaux : la gestion des urgences médicales, l’alerte d’arrivée imminente d’un bébé et la gestion des dons de sang. Son objectif est de connecter efficacement les citoyens aux centres de santé afin de réduire les délais d’intervention et d’optimiser la prise en charge des situations critiques.
+Urgence+ est un logiciel intégré conçue pour améliorer la réactivité et la coordination des services de santé au sein des communautés. Elle regroupe trois modules principaux : la gestion des urgences médicales, l’alerte d’arrivée imminente d’un bébé et la gestion des dons de sang. Son objectif est de connecter efficacement les citoyens aux centres de santé afin de réduire les délais d’intervention et d’optimiser la prise en charge des situations critiques.
 
 Le module d’urgence permet à tout utilisateur d’envoyer instantanément une alerte au centre de santé le plus proche en cas de situation grave. Cette notification rapide permet au personnel médical de se préparer et d’organiser l’intervention nécessaire. Le module grossesse est exclusivement destiné à signaler l’arrivée imminente du bébé. Lorsqu’une femme enceinte entre en travail, elle peut déclencher une alerte pour informer le centre de santé de son arrivée prochaine, permettant ainsi à l’équipe médicale d’anticiper et de préparer l’accouchement dans de meilleures conditions.
 
