@@ -2,7 +2,7 @@
 
 
 
-I - Mon Profil
+# I - Mon Profil
 
 
 
@@ -14,7 +14,7 @@ Ma mission : Créer la porte d'entrée pour les citoyens qui souhaitent sauver d
 
 
 
-II - Ma Tâche spécifique
+## II - Ma Tâche spécifique
 
 Je dois concevoir et coder le système d'Inscription des donneurs volontaires.
 
@@ -26,7 +26,7 @@ Je vais créer une interface où une personne peut s'enregistrer pour dire : "Je
 
 
 
-III - Ce que je vais développer (Fonctionnalités)
+## III - Ce que je vais développer (Fonctionnalités)
 
 Pour réussir cette tâche, je vais coder les éléments suivants :
 
@@ -72,7 +72,7 @@ Faire en sorte que ces informations soient enregistrées dans la base de donnée
 
 
 
-IV - Les objectifs de ma tâche
+## IV - Les objectifs de ma tâche
 
 Faciliter l'engagement : Créer un formulaire simple et rapide pour ne pas décourager les donneurs.
 
@@ -86,7 +86,7 @@ Disponibilité : Permettre aux citoyens de s'inscrire à tout moment, même s'il
 
 
 
-V - Comment je vais procéder 
+## V - Comment je vais procéder 
 
 Étape 1 : Je crée ma branche Git ( feature-inscription-donneur).
 
