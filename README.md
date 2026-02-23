@@ -16,27 +16,4 @@ Le module de don de sang permet aux donneurs volontaires de s’inscrire avec le
 
 Toutefois, la plateforme permet également aux citoyens de proposer un don de sang de manière volontaire, sans attendre une convocation ou une demande urgente. Ils peuvent ainsi signaler leur disponibilité pour donner leur sang, contribuant à maintenir un stock suffisant et à renforcer la solidarité communautaire.
 
----
 
-## Objectifs
-
-
-L’objectif principal de l’application est de développer une plateforme numérique innovante capable de faciliter la communication rapide entre les citoyens et les centres de santé afin d’assurer une prise en charge plus efficace des situations urgentes et critiques.
-
-Le projet vise à :
-
-- Réduire les délais d’intervention en cas d’urgence  
-- Faciliter la préparation des accouchements grâce à une alerte d’arrivée imminente du bébé  
-- Améliorer la disponibilité du sang à travers un système organisé de don volontaire et sur demande  
-
-De manière spécifique, le projet a pour objectifs de :
-
-- Permettre aux citoyens de signaler rapidement une situation d’urgence  
-- Offrir aux femmes enceintes un moyen simple d’informer un centre de santé de leur arrivée prochaine pour accouchement  
-- Créer une base de données de donneurs de sang pouvant être contactés en cas de besoin ou donner volontairement sans convocation  
-
-À travers cette solution technologique, l’application cherche à contribuer à :
-
-- La réduction des décès évitables  
-- L’amélioration de l’organisation des services de santé  
-- La promotion de la solidarité communautaire dans le domaine médical  
