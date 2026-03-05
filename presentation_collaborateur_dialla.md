@@ -1,13 +1,15 @@
-# Présentation-Dialla Coulibaly
+# Présentation - Dialla COULIBALY
 
-## Profil
+## Profil :
+
 
 -Nom:Dialla Coulibaly
 
-- Rôle : Développeur Full Stack
-- Compétences : PHP, Laravel, Angular
+-Rôle : Développeur Full Stack
+-Compétences : PHP, Laravel, Angular
 
-## Fonctionnalités à développer
+## Fonctionnalités à dévelloper:
 
-- Permettre à une femme enceinte de signaler l’arrivée imminente de son bébé
-- Envoyer des notifications aux équipes médicales en temps réel pour anticiper l’accouchement
+Permettre à une femme enceinte de signaler l’arrivée imminente de son bébé
+
+Envoyer des notifications aux équipes médicales en temps réel pour anticiper l’accouchement
