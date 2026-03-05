@@ -10,9 +10,10 @@ Profile
 
         - Conception d’applications,
 
-        - mobiles, Travail en équipe  
+        - Conception mobiles, Travail en équipe  
 
 Fonctionnalité à developper
+
     * Permettre à une femme enceinte de signaler l’arrivée imminente de son bébé
 
     
