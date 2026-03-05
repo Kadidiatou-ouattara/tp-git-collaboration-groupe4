@@ -8,9 +8,9 @@ Profile
 
         - Création de sites web, 
 
-        - Conception d’applications,
+        - Conception d’applications mobiles,
 
-        - Conception mobiles, Travail en équipe  
+        - Travail en équipe  
 
 Fonctionnalité à developper
 
