@@ -12,4 +12,4 @@
 
 Permettre à une femme enceinte de signaler l’arrivée imminente de son bébé
 
-Envoyer des notifications aux équipes médicales en temps réel pour anticiper l’accouchement
+
