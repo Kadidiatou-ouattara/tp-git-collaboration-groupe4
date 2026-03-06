@@ -28,6 +28,9 @@ Le projet vise à :
 
 De manière spécifique, le projet a pour objectifs de :
 
+
+À travers cette solution technologique, l’application cherche à contribuer à la réduction des décès évitables, à améliorer l’organisation des services de santé et à promouvoir la solidarité communautaire dans le domaine médical.
+
 - Permettre aux citoyens de signaler rapidement une situation d’urgence  
 - Offrir aux femmes enceintes un moyen simple d’informer un centre de santé de leur arrivée prochaine pour accouchement  
 - Créer une base de données de donneurs de sang pouvant être contactés en cas de besoin ou donner volontairement sans convocation  
@@ -37,3 +40,4 @@ De manière spécifique, le projet a pour objectifs de :
 - La réduction des décès évitables  
 - L’amélioration de l’organisation des services de santé  
 - La promotion de la solidarité communautaire dans le domaine médical  
+
