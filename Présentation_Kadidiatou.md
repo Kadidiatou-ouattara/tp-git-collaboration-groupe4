@@ -2,17 +2,17 @@
 
 ## Profile 
 
-     -Nom : Kadidiatou OUATTARA
+     Nom : Kadidiatou OUATTARA
 
-     -Profession : Développeuse web
+     Profession : Développeuse web
 
- -Compétence : 
+ Compétence : 
 
-     -Création de sites web, 
+     Création de sites web, 
 
-     -Conception d’applications mobiles,
+     Conception d’applications mobiles,
 
-     -Travail en équipe  
+     Travail en équipe  
 
 ## Fonctionnalité à developper
 
