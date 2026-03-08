@@ -18,26 +18,6 @@ Toutefois, la plateforme permet également aux citoyens de proposer un don de sa
 
 ## Objectifs
 
-L’objectif principal de l’application est de développer une plateforme numérique innovante capable de faciliter la communication rapide entre les citoyens et les centres de santé afin d’assurer une prise en charge plus efficace des situations urgentes et critiques.
+le projet a pour objectifs de permettre aux citoyens de signaler rapidement une situation d’urgence, d’offrir aux femmes enceintes un moyen simple d’informer un centre de santé de leur arrivée prochaine pour accouchement, et de créer une base de données de donneurs de sang pouvant être contactés en cas de besoin ou donner volontairement sans convocation.
 
-Le projet vise à :
-
-- Réduire les délais d’intervention en cas d’urgence  
-- Faciliter la préparation des accouchements grâce à une alerte d’arrivée imminente du bébé  
-- Améliorer la disponibilité du sang à travers un système organisé de don volontaire et sur demande  
-
-De manière spécifique, le projet a pour objectifs de :
-
-
-À travers cette solution technologique, l’application cherche à contribuer à la réduction des décès évitables, à améliorer l’organisation des services de santé et à promouvoir la solidarité communautaire dans le domaine médical.
-
-- Permettre aux citoyens de signaler rapidement une situation d’urgence  
-- Offrir aux femmes enceintes un moyen simple d’informer un centre de santé de leur arrivée prochaine pour accouchement  
-- Créer une base de données de donneurs de sang pouvant être contactés en cas de besoin ou donner volontairement sans convocation  
-
-À travers cette solution technologique, l’application cherche à contribuer à :
-
-- La réduction des décès évitables  
-- L’amélioration de l’organisation des services de santé  
-- La promotion de la solidarité communautaire dans le domaine médical  
-
+À travers cette solution technologique, l’application cherche à contribuer à la réduction des décès évitables, à améliorer l’organisation des services de santé et à promouvoir la solidarité communautaire dans le domaine médical.  
