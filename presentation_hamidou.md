@@ -1,10 +1,11 @@
-Présentation:
+\# Présentation- hamidou koita
 
+\## Profil
 - Nom : Hamidou Koïta
 - Rôle : Développeur Full Stack
 - Compétences : Java, PHP, Laravel, Node.js
 
 
-Fonctionalité : 
+\## Fonctionalité à développer : 
 
 Permettre à un utilisateur d’envoyer une alerte d’urgence instantanée au centre de santé le plus proche
