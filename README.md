@@ -18,6 +18,6 @@ Toutefois, la plateforme permet également aux citoyens de proposer un don de sa
 
 ## Objectifs
 
-le projet a pour objectifs de permettre aux citoyens de signaler rapidement une situation d’urgence, d’offrir aux femmes enceintes un moyen simple d’informer un centre de santé de leur arrivée prochaine pour accouchement, et de créer une base de données de donneurs de sang pouvant être contactés en cas de besoin ou donner volontairement sans convocation.
+Le projet a pour objectifs de permettre aux citoyens de signaler rapidement une situation d’urgence, d’offrir aux femmes enceintes un moyen simple d’informer un centre de santé de leur arrivée prochaine pour accouchement, et de créer une base de données de donneurs de sang pouvant être contactés en cas de besoin ou donner volontairement sans convocation.
 
 À travers cette solution technologique, l’application cherche à contribuer à la réduction des décès évitables, à améliorer l’organisation des services de santé et à promouvoir la solidarité communautaire dans le domaine médical.  
